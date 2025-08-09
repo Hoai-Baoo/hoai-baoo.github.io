@@ -4,6 +4,7 @@
   icon: "fab fa-github"
 
 - type: twitter
+  enable: false
   icon: "fa-brands fa-x-twitter"
 
 - type: email
