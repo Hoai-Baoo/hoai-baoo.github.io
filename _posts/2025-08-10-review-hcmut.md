@@ -12,17 +12,17 @@ Xin chào, với tư cách là 1 cựu sinh viên tự động hoá K19 thuộc 
 
 ## **1. Tổng quan tất cả môn học của khoa Điện**
 
-### **1.1. Chuyên ngành**
+<!-- ### **1.1. Chuyên ngành** -->
 Khoa Điện - Điện tử hiện đang có 4 chuyên ngành chính:
 - [**Kỹ thuật Điều khiển và Tự động hóa**](https://drive.google.com/file/d/1_Xw-E7kWiywtT_QqNVaXUTbRJ3CPPHpl/view)
 - [**Kỹ thuật Điện tử - Viễn thông**](https://drive.google.com/file/d/1dsR9sO8a-6Qp0ExZvrdhXPcr2AQoVOxo/view)
 - [**Kỹ thuật Điện - Điện tử**](https://drive.google.com/file/d/1QFg6WWMk80rm5tJ4el2SBEJuRyz6Uql9/view)
 - [**Thiết kế vi mạch**](https://drive.google.com/file/d/1KSHB6gocf-iywE27S4JMQSyzoC9NFlR4/view)
 
-### **1.2. Kỹ thuật Điều khiển và Tự động hóa**
+<!-- ### **1.2. Kỹ thuật Điều khiển và Tự động hóa**
 
 Như tên gọi thì ngành này chia ra 2 mảng là **Điều khiển** và **Tự động hoá**. Đặc điểm của ngành này là liên chuyên ngành nên chúng ta cũng cần trang bị kiến thức cơ bản của 1 số ngành khác:
-- **Cơ khí**: thiết kế các phần rắn của hệ thống như các bộ phận của robot, băng chuyền, động cơ, ...
+- **Cơ khí**: thiết kế các
 - **Điện**: hiểu về điện cao thế, điện ba pha, động cơ điện, biến đổi năng lượng điện ...
 - **Điện tử**: thiết kế mạch điện để truyền tín hiệu, đo lường, vi xử lý để điều khiển hệ thống, ...
 - **Lập trình nhúng**: code nhúng cho vi điều khiển để xử lý tín hiệu đo lường từ cảm biến, động cơ sang các hệ thống khác, ...
@@ -37,10 +37,6 @@ Học ngành này thì mình đánh giá khá nặng vì khối lượng kiến 
 
  Nhìn chung thì ngành này nghiên cứu nhiều hơn vào lý thuyết, áp dụng các mô hình toán học để tính toán tối ưu hoá điều khiển, ước lượng vị trí và đo lường. Kỹ thuật điều khiển sẽ phù hợp cho những bạn đam mê tính toán, thích nghiên cứu tối ưu những mô hình phức tạp.
 
-<!-- 
-**Các khái niệm chính**
-- Hệ thống điều khiển: máy điều hoà (điều khiển nhiệt độ), robotics (điều khiển chuyển động), nhà máy (điều khiển sản xuất)...
-- Lý thuyết điều khiển: các mô hình toán được sử dụng để thiết kế và phân tích hệ thống điều khiển. Ví dụ: feedback control, PID, ... -->
 
 **Ứng dụng**
 - **Manufacturing:** tối ưu hoá quy trình sản xuất
@@ -58,14 +54,6 @@ Autonomous Vehicle
 
 <img src="/assets/img/auv.png" alt="Autonomous Vehicle" width="300" height="200">
 
-<!-- Nông nghiệp thông minh
-
-<img src="/assets/img/smart_agri.jpeg" alt="Nông nghiệp thông minh" width="400" height="200">
-
-Control Theory Map by Brian Douglas
-
-<img src="/assets/img/control_theory.jpeg" alt="Bản đồ lý thuyết điều khiển" width="400" height="200"> -->
-
 
 #### **1.2.2. Kỹ thuật Tự động hoá**
 
@@ -73,14 +61,6 @@ Kỹ thuật tự động hoá tập trung vào thiết kế, phát triển và 
 
 Ngược lại với điều khiển, tự động hoá tập trung nhiều hơn về thực hành, ứng dụng thực tế. Ngành kỹ thuật tự động hoá sẽ phù hợp cho những bạn đam mê thực hành, ngành này sẽ cần làm việc trong nhà máy nhiều để lấy kinh nghiệm.
 
-<!-- **Các khái niệm chính**
-- Thiết kế hệ thống tự động hoá: thiết kế và phát triển các hệ thống tự động hoá bao gồm cả phần cứng và phần mềm để thực hiện 1 nhiệm vụ nào đó.
-- Tích hợp công nghệ: robot, cảm biến, điều khiển, phần mềm.
-- Tối ưu hoá quy trình
-- Giải quyết vấn đề: giải quyết các vấn đề tự động hoá như nông nghiệp thông mình, tự động hoá kho, nhà máy -->
-
-
-Hệ thống tự phân loại hàng hoá Amazon
 
 <img src="/assets/img/amazon.png" alt="Hệ thống tự phân loại hàng hoá Amazon width=" width="400" height="200">
 
@@ -91,19 +71,7 @@ Hệ thống lắp ráp ô tô
 Hệ thống SCADA
 
 <img src="/assets/img/scada.webp" alt="SCADA" width="400" height="200">
-
-
-### **1.3. Kỹ thuật Điện tử - Viễn thông**
-Như tên gọi thì ngành này chia ra 2 mảng là **Điện tử** và **Viễn thông**. 
-
-#### **1.3.1. Kỹ thuật Điện tử** 
-
-
-#### **1.3.2. Kỹ thuật Viễn thông**
-
-### **1.4. Kỹ thuật Điện - Điện tử**
-
-### **1.5. Thiết kế vi mạch**
+ -->
 
 ## **2. Các môn học**
 ### **2.1. Toán và Khoa học tự nhiên (Mathematics and Basic Sciences):** 

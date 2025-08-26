@@ -9,26 +9,41 @@ order: 4
 **Design Verification Engineer** | **Ho Chi Minh University of Technology, VietNam**
 
 ## About
-I am a **design verification** with **2** years of experience. I'm interested in:
-- Testbench Architecture Design 
-- Automation Scripts
-- Computer Architecture
-- Serializer/De-serialier
-- Equalization (EQ) techniques (Decision Feedback, Feed Forward, CTLE)
-- Setup/Hold time
-- Clock jitter
-
+- I'm a passionate and detail-oriented **Design Verification Engineer** with **2 years of hands-on experience** in verifying **complex digital and mixed-signal IP blocks**, particularly in **high-speed memory**.
+- This blog is my personal space to record what I learn and share it with others who might need it.
 
 ## Education
 - **BSc**, Control and Automation Engineering, **Ho Chi Minh Uinversity of Technology** 
 
-## Expertise
-- **Verification**: RTL debugging, simulation, coverage analysis
-- **Tools**: Cadence, Synopsys
-- **Scripting**: Python, Perl
+## Core
 
-## Projects
-- **[Project1]**: TBD
+I am studying the below concepts:
+- Computer Architecture
+    - Boolean Algebra
+    - Kanaugh Map
+    - Gate 
+    - Combinational Logic
+    - Sequential Logic
+    - Latch and Flip-flop
+    - ALU
+    - Memory
+    - CPU
+    - Flash
+    
+- UVM Test Bench Design
+    - Architecture
+    - Utilize Inheritance 
+    - Apply Polymorphism 
+
+- Analog Mix-signaled PHY features 
+    - Vref Calibration
+    - Equalizer (DFE, FFE, CTLE)
+    - Eye Openning Experience
+
+- High-speed design stuff: 
+    - Clock Domain Crossing
+    - Serializer/De-serializer
+    - Setup/Hold Violation
 
 ## Contact
 - **Email**: baoo.nguyenhoai@gmail.com
