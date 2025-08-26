@@ -1,8 +1,8 @@
 ---
 title: Latch and Flip-Flop
 date: 2025-08-09 12:00:00 +0700
-categories: [fundamental_logic_design]
-tags: [LogicDesign]
+categories: [Fundamental Logic Design]
+tags: [latch, flipflop]
 ---
 
 Latch và Flip-Flop là những phần tử cơ bản mà mọi IP đều có, hôm nay chúng ta cùng tìm hiểu về bản chất của latch và flip-flop là gì nhé!
