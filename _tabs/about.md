@@ -13,34 +13,27 @@ order: 4
 - This blog is my personal space to record what I learn and share it with others who might need it.
 
 ## Education
-- **BSc**, Control and Automation Engineering, **Ho Chi Minh Uinversity of Technology** 
+- **BSc**, Control and Automation Engineering, **Ho Chi Minh University of Technology** 
 
 ## Core
 
 I am studying the below concepts:
-- Computer Architecture
-    - Boolean Algebra
-    - Kanaugh Map
-    - Gate 
-    - Combinational Logic
-    - Sequential Logic
-    - Latch and Flip-flop
+- **Computer Architecture and Digital Design**
     - ALU
-    - Memory
+    - Memory (ROM/SRAM/DRAM/Flash,UFS)
     - CPU
-    - Flash
     
-- UVM Test Bench Design
+- **UVM Test Bench Design**
     - Architecture
     - Utilize Inheritance 
     - Apply Polymorphism 
 
-- Analog Mix-signaled PHY features 
+- **Analog Mixed-signal PHY features** 
     - Vref Calibration
     - Equalizer (DFE, FFE, CTLE)
     - Eye Openning Experience
 
-- High-speed design stuff: 
+- **High-speed design stuff** 
     - Clock Domain Crossing
     - Serializer/De-serializer
     - Setup/Hold Violation
