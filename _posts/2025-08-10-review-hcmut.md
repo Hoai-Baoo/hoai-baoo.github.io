@@ -160,6 +160,3 @@ Hệ thống SCADA
 - **Ngoại ngữ (Foreign Languages)**
 
 
-
-## Tài liệu tham khảo
-

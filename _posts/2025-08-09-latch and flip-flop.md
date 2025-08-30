@@ -1,7 +1,7 @@
 ---
 title: Latch and Flip-Flop
 date: 2025-08-09 12:00:00 +0700
-categories: [Fundamental Logic Design]
+categories: [Logic Design]
 tags: [latch, flipflop]
 ---
 
