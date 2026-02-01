@@ -12,9 +12,9 @@ lang: en,vi
 timezone:
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# ↓ --------------------------
+# ↓ ------------------------- 
 
-title: Bao # the main title
+title: Felix # the main title
 
 tagline: Design Verification Engineer # it will display as the subtitle
 
