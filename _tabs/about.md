@@ -15,8 +15,9 @@ order: 4
 
 - Hands-on **analog modeling** for PHY-level verification 
     - DFE
-    - Eye diagram
     - Vref
+    - Duty Cycle Adjustment
+    - Eye diagram
     - Setup/Hold timing
     - PLL
     - SerDes
