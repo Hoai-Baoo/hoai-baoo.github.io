@@ -9,34 +9,29 @@ order: 4
 **Design Verification Engineer** | **Ho Chi Minh University of Technology, VietNam**
 
 ## About
-- I'm a passionate and detail-oriented **Design Verification Engineer** with **2 years of hands-on experience** in verifying **complex digital and mixed-signal IP blocks**, particularly in **high-speed memory**.
+- I'm a Design Verification Engineer with 2+ years of specialized experience in verifying high-speed memory interfaces, including DDR4/5 PHY, LPDDR4/5 PHY IP, and DDR Subsystems (Controller + PHY).
+
+- Proficient in: System Verilog, UVM, DFI protocol, JEDEC DDR/LPDDR specs, high-speed debug techniques. Eager to expand into other standards like LPDDR6, HBM3/3E, PCIe, USB, Ethernet.
+
+- Hands-on **analog modeling** for PHY-level verification 
+    - DFE
+    - Eye diagram
+    - Vref
+    - Setup/Hold timing
+    - PLL
+    - SerDes
+    - CDC concepts
+
+- Scripting & automation in **Python** / **Perl**:
+  - Regression running & management
+  - Log parsing & filtering
+  - Code generation
+  - Functional coverage database generation
+
 - This blog is my personal space to record what I learn and share it with others who might need it.
 
 ## Education
 - **BSc**, Control and Automation Engineering, **Ho Chi Minh University of Technology** 
-
-## Core
-
-I am studying the below concepts:
-- **Computer Architecture and Digital Design**
-    - ALU
-    - Memory (ROM/SRAM/DRAM/Flash,UFS)
-    - CPU
-    
-- **UVM Test Bench Design**
-    - Architecture
-    - Utilize Inheritance 
-    - Apply Polymorphism 
-
-- **Analog Mixed-signal PHY features** 
-    - Vref Calibration
-    - Equalizer (DFE, FFE, CTLE)
-    - Eye Openning Experience
-
-- **High-speed design stuff** 
-    - Clock Domain Crossing
-    - Serializer/De-serializer
-    - Setup/Hold Violation
 
 ## Contact
 - **Email**: baoo.nguyenhoai@gmail.com

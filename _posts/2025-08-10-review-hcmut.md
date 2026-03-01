@@ -1,8 +1,8 @@
 ---
-title: Review các chuyên ngành Khoa Điện - Điện tử của Bách Khoa TPHCM
-date: 2025-08-10 12:00:00 +0700
-categories: [HCMUT]
-tags: [review, course]
+title:  "What I Learned at Ho Chi Minh City University of Technology (HCMUT – Bach Khoa)"
+date:   2026-03-01 10:00:00 +0700
+categories: education hcmut
+tags: [hcmut, bachkhoa, engineering, vietnam, university-life]
 ---
 
 Xin chào, với tư cách là 1 cựu sinh viên tự động hoá K19 thuộc khoa Điện của Trường Đại học Bách Khoa - ĐHQG Tp.HCM. Hôm nay mình sẽ chia sẽ kinh nghiệm học tập thời đại học của mình nhé!!
