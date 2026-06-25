@@ -1,11 +1,9 @@
 ---
-title:  "What I Learned at Ho Chi Minh City University of Technology (HCMUT – Bach Khoa)"
+title:  "Electronic and Electrical Engineering  - Ho Chi Minh City University of Technology (HCMUT – Bach Khoa)"
 date:   2026-03-01 10:00:00 +0700
 categories: education hcmut
 tags: [hcmut, bachkhoa, engineering, vietnam, university-life]
 ---
-
-Xin chào, với tư cách là 1 cựu sinh viên tự động hoá K19 thuộc khoa Điện của Trường Đại học Bách Khoa - ĐHQG Tp.HCM. Hôm nay mình sẽ chia sẽ kinh nghiệm học tập thời đại học của mình nhé!!
 
 ![Trường Đại học Bách Khoa - Đại học Quốc Gia Tp.HCM](/assets/img/bachkhoa.jpg "HCMUT")
 
