@@ -1,8 +1,8 @@
 ---
 title: Monolithic and Chiplet
 date: 2026-02-28 12:00:00 +0700
-categories: [Chip, Monolithic , Chiplet]
-tags: [Knowledge]
+categories: [technology]
+tags: [technology review]
 ---
 
 # Monolithic vs Chiplet Designs  

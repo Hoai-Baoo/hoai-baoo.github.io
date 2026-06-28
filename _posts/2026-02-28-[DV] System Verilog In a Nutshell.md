@@ -1,8 +1,8 @@
 ---
 title: System Verilog In a Nutshell
 date: 2026-05-29 12:00:00 +0700
-categories: [Chip, System Verilog]
-tags: [Knowledge]
+categories: [design verification]
+tags: [knowledge tree]
 ---
 
 

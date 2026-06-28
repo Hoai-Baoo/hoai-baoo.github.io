@@ -1,7 +1,7 @@
 ---
 title: Chip Design Flow
 date: 2026-02-19 12:00:00 +0700
-categories: [Chip, Design Flow]
+categories: [design verification]
 tags: [Knowledge]
 ---
 

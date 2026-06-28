@@ -1,7 +1,7 @@
 ---
 title:  "Electronic and Electrical Engineering  - Ho Chi Minh City University of Technology (HCMUT – Bach Khoa)"
 date:   2026-03-01 10:00:00 +0700
-categories: education hcmut
+categories: uni
 tags: [hcmut, bachkhoa, engineering, vietnam, university-life]
 ---
 

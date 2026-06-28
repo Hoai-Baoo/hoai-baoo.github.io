@@ -1,7 +1,7 @@
 ---
 title:  "Knowledge Tree for Design Verification"
 date:   2026-02-05 10:00:00 +0700
-categories: chip verification
+categories: [design verification]
 tags: [design verification, knowledge tree]
 ---
 

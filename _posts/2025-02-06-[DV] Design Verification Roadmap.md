@@ -1,8 +1,8 @@
 ---
 title:  "Design Verification Roadmap"
 date:   2026-02-06 10:00:00 +0700
-categories: chip verification
-tags: [design verification, roadmap]
+categories: [design verification]
+tags: [roadmap]
 ---
 
 ![Design Verification Roadmap](/assets/img/Design Verification Roadmap.drawio.png)
